@@ -12,6 +12,6 @@ export const MOVIESWATCH = [
   {
     id: "3",
     name: "Telugu",
-    moviesURL: require("../assets/movies/English.png"),
+    moviesURL: require("../assets/movies/Telugu.png"),
   },
 ];
